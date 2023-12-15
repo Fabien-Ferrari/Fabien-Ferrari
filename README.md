@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hello, my name is Fabien.
+- 🔭 I'm currently working on Eronix, Undercraft, Havzer, P2N as a developer.
+- 🌱 I'm currently learning HTML/CSS/PHP.
 
 <!--
 **Fabien-Ferrari/Fabien-Ferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
