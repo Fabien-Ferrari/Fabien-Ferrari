@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Fabien.
-- 🔭 I'm currently working on Eronix, Undercraft, Havzer, P2N as a developer.
+- 🔭 I'm currently working on NeoEarth, Havzer, P2N as a developer.
 - 🌱 I'm currently learning HTML/CSS/PHP.
 
 <!--
